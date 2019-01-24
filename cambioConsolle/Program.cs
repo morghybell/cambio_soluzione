@@ -8,6 +8,8 @@ namespace cambioConsolle
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Ciao");
+            Console.WriteLine("Amo La Nutella");
+
         }
     }
 }
